@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>Bcrypt的NetCore版本。要求.NET Standard大于等于2.1</Description>
+  </PropertyGroup>
+
+</Project>
